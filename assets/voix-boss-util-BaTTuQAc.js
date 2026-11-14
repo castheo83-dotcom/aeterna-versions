@@ -1,0 +1,1 @@
+function e(e){let t={};for(let[n,r]of Object.entries(e))for(let[e,i]of Object.entries(r))i.forEach((r,i)=>{t[`bossVoix.${n}.${e}.${i}`]=r});return t}export{e as t};
